@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sieci"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\googletest-master\;CMake Files\googletest-master\googlemock\;CMake Files\googletest-master\googlemock\cmake\;CMake Files\googletest-master\googletest\;CMake Files\googletest-master\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sieci">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/sieci.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 sieci"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sieci/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/sieci.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 sieci/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sieci_test">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/sieci_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEXERCISE_ID=5"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/mocks"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 sieci_test"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sieci_test/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/sieci_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DEXERCISE_ID=5"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/mocks"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 sieci_test/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/include"/>
+					<Add directory="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/cmake-build-debug/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/src/gmock-all.cc">
+			<Option target="gmock"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/main.cpp">
+			<Option target="sieci"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/factory.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/helpers.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/nodes.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/package.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/reports.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/simulation.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/src/storage_types.cpp">
+			<Option target="sieci"/>
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/main_gtest.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_Factory.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_factory_io.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_nodes.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_package.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_reports.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_simulate.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/test/test_storage_types.cpp">
+			<Option target="sieci_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest-master\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest-master\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/cmake/gmock.pc.in">
+			<Option virtualFolder="CMake Files\googletest-master\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googlemock/cmake/gmock_main.pc.in">
+			<Option virtualFolder="CMake Files\googletest-master\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\googletest-master\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/cmake/gtest.pc.in">
+			<Option virtualFolder="CMake Files\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/cmake/gtest_main.pc.in">
+			<Option virtualFolder="CMake Files\googletest-master\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/Jano/Documents/AiR_Semestr3/Code/ZPO/NetSim/googletest-master/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\googletest-master\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

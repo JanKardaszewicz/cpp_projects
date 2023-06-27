@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/sieci_test.dir/link.d"
+  "CMakeFiles/sieci_test.dir/src/factory.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/factory.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/helpers.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/helpers.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/nodes.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/nodes.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/package.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/package.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/reports.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/reports.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/simulation.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/simulation.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/src/storage_types.cpp.obj"
+  "CMakeFiles/sieci_test.dir/src/storage_types.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/main_gtest.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/main_gtest.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_Factory.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_Factory.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_factory_io.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_factory_io.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_nodes.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_nodes.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_package.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_package.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_reports.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_reports.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_simulate.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_simulate.cpp.obj.d"
+  "CMakeFiles/sieci_test.dir/test/test_storage_types.cpp.obj"
+  "CMakeFiles/sieci_test.dir/test/test_storage_types.cpp.obj.d"
+  "libsieci_test.dll.a"
+  "sieci_test.exe"
+  "sieci_test.exe.manifest"
+  "sieci_test.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/sieci_test.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

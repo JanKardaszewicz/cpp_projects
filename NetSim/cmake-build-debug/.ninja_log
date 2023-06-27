@@ -1,0 +1,23 @@
+# ninja log v5
+0	484	1640105670956187481	CMakeFiles/NetSim.dir/src/package.cpp.o	6badc79b72fa3243
+1	11	1640100466831959745	CMakeFiles/NetSim.dir/main.cpp.o	18c78395ebc4a00
+4	36	1640106442571783565	CMakeFiles/sieci_test.dir/test/test_nodes.cpp.o	692eef04769bb9ad
+0	41	1640106442583783329	CMakeFiles/sieci_test.dir/test/test_factory_io.cpp.o	d1c37381e468b74f
+0	43	1640106442583783329	CMakeFiles/sieci_test.dir/test/test_Factory.cpp.o	91c2bf99964c2cf
+32	71	1640106442611782780	CMakeFiles/sieci_test.dir/test/test_simulate.cpp.o	2504d5bf6a467312
+20	75	1640106442615782702	CMakeFiles/sieci_test.dir/test/test_reports.cpp.o	10b90fb85fb7c235
+0	528	1640106443067773840	CMakeFiles/sieci_test.dir/src/storage_types.cpp.o	be5c135ee641ccaa
+0	667	1640106443207771098	CMakeFiles/sieci_test.dir/src/package.cpp.o	db08bbbe21d07b78
+5	1747	1640106444287749953	CMakeFiles/sieci_test.dir/test/test_package.cpp.o	3f714b3e21646a0e
+34	1761	1640106444299749719	CMakeFiles/sieci_test.dir/test/test_storage_types.cpp.o	54cb717badb314de
+35	2318	1640106444859738765	CMakeFiles/sieci_test.dir/test/main_gtest.cpp.o	60d10b2901140efc
+36	3393	1640106445931717820	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	2cf29a9cfc607b67
+41	4968	1640106447503687162	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	ea7163bae20c9b05
+4968	5011	1640106447551686227	lib/libgtestd.a	a43758063530ae3f
+5011	5028	1640106447567685915	lib/libgmockd.a	891327ad825b1069
+1	436	1640106574657395768	CMakeFiles/sieci_test.dir/src/package.cpp.o	db08bbbe21d07b78
+436	642	1640106574861392367	sieci_test	abe473e19d0f9a67
+1	426	1640108113808273916	CMakeFiles/sieci_test.dir/src/package.cpp.o	db08bbbe21d07b78
+426	595	1640108113976271198	sieci_test	abe473e19d0f9a67
+1	353	1640108160011541077	CMakeFiles/sieci_test.dir/src/package.cpp.o	db08bbbe21d07b78
+353	523	1640108160179538466	sieci_test	abe473e19d0f9a67

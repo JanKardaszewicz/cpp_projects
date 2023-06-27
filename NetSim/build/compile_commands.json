@@ -1,0 +1,164 @@
+[
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\main.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\main.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/main.cpp",
+  "output": "CMakeFiles/sieci.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\factory.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\factory.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/factory.cpp",
+  "output": "CMakeFiles/sieci.dir/src/factory.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\helpers.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\helpers.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/helpers.cpp",
+  "output": "CMakeFiles/sieci.dir/src/helpers.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\nodes.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\nodes.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/nodes.cpp",
+  "output": "CMakeFiles/sieci.dir/src/nodes.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\package.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\package.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/package.cpp",
+  "output": "CMakeFiles/sieci.dir/src/package.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\reports.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\reports.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/reports.cpp",
+  "output": "CMakeFiles/sieci.dir/src/reports.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\storage_types.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\storage_types.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/storage_types.cpp",
+  "output": "CMakeFiles/sieci.dir/src/storage_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sieci.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci.dir\\src\\simulation.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\simulation.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/simulation.cpp",
+  "output": "CMakeFiles/sieci.dir/src/simulation.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\factory.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\factory.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/factory.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/factory.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\helpers.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\helpers.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/helpers.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/helpers.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\nodes.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\nodes.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/nodes.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/nodes.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\package.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\package.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/package.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/package.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\reports.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\reports.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/reports.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/reports.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\storage_types.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\storage_types.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/storage_types.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/storage_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\src\\simulation.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\src\\simulation.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/src/simulation.cpp",
+  "output": "CMakeFiles/sieci_test.dir/src/simulation.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_Factory.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_Factory.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_Factory.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_Factory.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_factory_io.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_factory_io.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_factory_io.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_factory_io.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_nodes.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_nodes.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_nodes.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_nodes.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_package.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_package.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_package.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_package.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_reports.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_reports.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_reports.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_reports.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_simulate.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_simulate.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_simulate.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_simulate.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\test_storage_types.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\test_storage_types.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/test_storage_types.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/test_storage_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DEXERCISE_ID=5 @CMakeFiles/sieci_test.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\sieci_test.dir\\test\\main_gtest.cpp.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\test\\main_gtest.cpp",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/test/main_gtest.cpp",
+  "output": "CMakeFiles/sieci_test.dir/test/main_gtest.cpp.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build/googletest-master/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\googletest-master\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/googletest-master/googlemock/src/gmock-all.cc",
+  "output": "googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build/googletest-master/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\googletest-master\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/googletest-master/googlemock/src/gmock_main.cc",
+  "output": "googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build/googletest-master/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\googletest-master\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/googletest-master/googletest/src/gtest-all.cc",
+  "output": "googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/build/googletest-master/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\jjkar\\OneDrive\\Documents\\Code\\cpp_CV\\NetSim\\googletest-master\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/jjkar/OneDrive/Documents/Code/cpp_CV/NetSim/googletest-master/googletest/src/gtest_main.cc",
+  "output": "googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
